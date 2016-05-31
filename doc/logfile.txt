@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\mail-1.4.7.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction
+-d
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\Organiser.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\Organiser.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\Organiser.html...
+C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\Organiser.java:9: warning - @brief is an unknown tag.
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\package-frame.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\package-summary.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\allclasses-frame.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\allclasses-noframe.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\index.html...
+Generating C:\Users\Grigore\Desktop\WIT\Documents\WorkspaceBlueJ - Programming\Assignments\assignment-2\auction\doc\stylesheet.css...
+1 warning

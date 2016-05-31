@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=numberDigits
+comment0.target=int\ generatePin(int)
+comment0.text=\r\n\ Randomly\ generate\ a\ pin\ number\r\n\ @param\ numberDigits\ The\ number\ of\ digits\ in\ pin\r\n\ @return\ The\ randomly\ generated\ pin\r\n
+comment1.params=
+comment1.target=int\ generatePin()
+comment1.text=\r\n\ Randomly\ generate\ a\ pin\ number\ with\ NUMBER_DIGITS\ digits\r\n\ @return\ The\ randomly\ generated\ pin\ length\ NUMBER_DIGITS\r\n
+comment2.params=min\ max
+comment2.target=int\ randomIntInRange(int,\ int)
+comment2.text=\r\n\ Generates\ a\ random\ number\ in\ range\ [min\ max]\r\n\ @param\ min\ The\ lowest\ possible\ value\ inclusive\ of\ the\ random\ number\ generated\r\n\ @param\ max\ The\ highes\ possible\ value\ inclusive\ of\ the\ random\ number\ generated\r\n\ @return\ The\ random\ number\ in\ range\ [min\ max]\r\n
+comment3.params=email
+comment3.target=boolean\ validEmail(java.lang.String)
+comment3.text=\r\n\ Checks\ if\ an\ email\ address\ correctly\ formatted\r\n\ @param\ email\ The\ email\ address\ to\ be\ validated\r\n\ @return\ Returns\ true\ if\ the\ address\ format\ valid\ else\ false\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Note\ only\ formate\ validated,\ not\ existence\ of\ address\r\n
+comment4.params=pin
+comment4.target=boolean\ validPin(int)
+comment4.text=\r\n\ Validate\ pin\:\ Check\ it\ is\ \r\n\ a\ positive\ number\ and\ \r\n\ does\ not\ contain\ zero\ and\r\n\ has\ at\ least\ 4\ digits\r\n\ @param\ pin\r\n\ @return\r\n
+numComments=5
